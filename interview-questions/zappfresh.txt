@@ -1,0 +1,7 @@
+1. what is difference between abstract class and interface?
+2. how can we reduce the app size in android?
+3. difference between webp, svg, vectors?
+4. how does MVVM works?
+5. what is viewmodel and it's advantages?
+6. kotlin advantages over java?
+7. what are lambda expression?

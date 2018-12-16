@@ -1,0 +1,2 @@
+1. Given an integer array and a value x. Find out the smallest sub-array whose sum is greater than value x.
+2. Given two strings. Check whether string s1 is substring of string s2 or not.

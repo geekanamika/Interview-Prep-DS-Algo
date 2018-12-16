@@ -1,0 +1,11 @@
+1. activity life-cycle
+2. difference between fragments and activities
+3. activity stack & lifecycle events called
+4. what are services?
+5. How to download a video on android & notify once download is complete?
+6. What are content providers?
+7. what are broadcast managers?
+8. stringbuilder vs string buffer classes?
+9. relevance of 'this' operator in java?
+10.what are immutable vs mutable object in java?
+11.string function like toUppercase or toLowerCase
