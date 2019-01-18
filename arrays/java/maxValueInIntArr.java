@@ -11,10 +11,6 @@ class GFG {
 		for(int i=0; i<n; i++) {
 		    arr[i] = sc.nextInt();
 		}
-		// print
-// 		for(int i=0; i<n; i++) {
-// 		    System.out.println(arr[i]);
-// 		}
 
         int max = Integer.MIN_VALUE;
         for(int i=0; i<n; i++) {
