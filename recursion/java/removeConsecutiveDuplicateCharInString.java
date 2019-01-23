@@ -15,8 +15,8 @@ Display the resulting string
 Sample Input:
 hello
 Sample Output:
-helo
-*/
+hel
+o*/
 
 import java.util.*;
 public class Main {
