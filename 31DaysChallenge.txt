@@ -1,0 +1,23 @@
+Day1
+1)	atm 25min
+2)	enormous input test 11:44	11:50	6min
+3)	11:53	12:15	18min	
+	learnt about BigInteger
+4)	12:19	12:22	3min
+5)	12:22	12:25	3min	Arrays.sort complexity is nLogn
+it uses comparison sort & in java 7, it can be o(n^2)
+6)	12:29	12:32	3min
+7)	12:33	12:36	3min
+8)	12:45	12:54	9min
+9)	12:55	12:56	1min
+10)	1:00	
+11)	1:03	1:16	13min
+12)	1:17	1:21	5min
+13)	1:22	1:26	4min
+14)	3:56	3:58	2min
+15)	4:00	4:03	3min
+16)	4:08	4:12	4min
+	
+
+Day2
+			

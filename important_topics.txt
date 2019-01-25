@@ -1,0 +1,25 @@
+***Double Precision***
+
+If you want to have the result in a String instead of being printed to the console, use String.format() with the same arguments:
+
+String result = String.format("%.2f", value);
+Or use class DecimalFormat:
+
+DecimalFormat df = new DecimalFormat("####0.00");
+System.out.println("Value: " + df.format(value));
+
+
+***BigInteger***
+static BigInteger factorial(int N) 
+    { 
+        // Initialize result 
+        BigInteger f = new BigInteger("1"); // Or BigInteger.ONE 
+  
+        // Multiply f with 2, 3, ...N 
+        for (int i = 2; i <= N; i++) 
+            f = f.multiply(BigInteger.valueOf(i)); 
+  
+        return f; 
+    }
+
+Comparing a doulbe with int is valid in java
