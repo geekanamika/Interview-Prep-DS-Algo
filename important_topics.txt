@@ -23,3 +23,15 @@ static BigInteger factorial(int N)
     }
 
 Comparing a doulbe with int is valid in java
+
+**HashSet**
+1. no duplicates allowed
+2. does not maintain insertion order
+3. null values are allowed
+HashSet h = new HashSet();
+h.contains(valueToBeChecked) // return true if contains else false
+h.add(valueToBeAdded);	// add value
+Iterator val = h.iterator();
+while(val.hasNext() ) {
+	sout(val.next() );	// display value
+}
