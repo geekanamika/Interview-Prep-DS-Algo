@@ -47,3 +47,16 @@ Day3
 6)	10:25	10:31	6min
 7)	10:32	10:42	10min
 8)	10:53	10:59	6min			
+
+Day5
+1) 	2:30	3:12	42min	Merge Binary Tree
+2) 	3:18	3:32	14min	Univalue tree
+3)	3:44	3:51	8min	Search in a Binary Search Tree
+4)	3:55	4:36	40min	N-ary Binary Tree Post Order traversal without recursion
+5)	4:45	5:01	15min	Convert sorted array into binary tree
+6)	5:30	5:35	5min	N-ary Binary Tree Pre Order traversal
+7)	5:40	5:50	10min	Maximum depth of n-ary tree
+8)	5:50	5:54	4min 	Maximum dpeth of binary tree
+9)	5:55	6:20	25min	Compare leaf nodes of two trees
+10)	6:31	6:56	25min	Increasing Order from Inorder of binary tree
+11)		
