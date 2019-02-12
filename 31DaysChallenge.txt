@@ -59,4 +59,63 @@ Day5
 8)	5:50	5:54	4min 	Maximum dpeth of binary tree
 9)	5:55	6:20	25min	Compare leaf nodes of two trees
 10)	6:31	6:56	25min	Increasing Order from Inorder of binary tree
-11)		
+
+Day 6
+done -> 1) Find the largest palindrome in a given string.
+done -> 2) Implement queue using two stacks.
+done -> 3) Find the middle element of the linked lists in a single pass (you can only traverse the list once).
+done -> 4)	N numbers ranging From 1 to N are given, there is exactly one number missing and exactly one is repeated find the repeated and missing number.
+done -> 5) You have an array of integers. Find that index for which sum of all the elements before it will be equal to sum of all elements after it.
+done -> 6) Find minimum value in a binary tree.
+done -> 7) Convert a binary tree to its mirror.
+done -> 8) Permutations of a string
+done -> 9) Length of the longest common subsequence for two given strings
+done -> 10) Sorting an array of pairs
+11)	sort array of squares	5min
+12)	Sort Array By Parity
+
+Day 7
+1)	12:15	12:29	14 min
+2) 	1:45	1:49	4min
+3)	1:50	1:56	6min
+4)	11:23	11:33	4min
+5)	11:34	11:42	8min
+
+
+Day 8
+1)	merge two sorted list  	30 mins
+2)	delete node
+3)	5min
+4)	odd even level difference
+5 ) height of tree
+
+
+5th feb
+1)	merge two sorted list
+2)	remove duplicates	4:35	4:43	8min
+3)	detect loop in list 	5min
+4)	remove key from list 		
+5)	pallindrome of lists 	15min
+6)	intersection of two lists 	20mins
+7)	Design list 	skip	
+8)	11:20
+
+6th Feb
+1)	add two linked List 	25min
+2)	linked list components 	30mins
+3)	split list in parts 	44mins
+4)	odd even list 			25min
+5) 	swap node pairs 		30mins
+6) 	flatten skip 
+7)	email address			30mins
+8)  toLowerCase				15mins
+9) 	morse code 				10mins
+10) Robot Return to Origin	6mins
+11) reverse words in a string 25mins
+12)	reverse string 			5mins
+13)	
+
+9th Feb
+Maximum absolute difference	46min
+Pascal triangle				10min
+kth row Pascal 				47min
