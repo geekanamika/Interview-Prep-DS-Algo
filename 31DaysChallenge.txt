@@ -119,3 +119,34 @@ Day 8
 Maximum absolute difference	46min
 Pascal triangle				10min
 kth row Pascal 				47min
+
+
+Feb 12
+Sorted insert position		11min
+Rotated Sorted Search 		10min
+Power function				skip
+Under Root Function			10min
+Matrix Search 				25min
+Make it pallindromic 		22min
+Count and Say				50min
+ZigZag string 				29min
+multiply two strings		1 hours - skipped
+3 Sum Zero					27min
+nearest three Sum 			23min
+intersection of sorted array13min
+Remove Duplicates from Sorted Array 26min
+same above question for LL 	10min
+pallindrome LL 				26min
+
+Feb 13
+1	Merge Two Sorted lists 		21min
+2	Remove element from array 	14min
+3	Sort by color 				8min
+4	remove duplicates II 		skip
+5	array 3 pointers			11min
+6	reverse list by k nodes 	20min
+7	add two numbers as list 	24min
+8	remove nth node from end	14min
+9 	remove duplicates II 		41min
+10 	pair wise swap				37min
+11	Merge two Sorted 			skipped
