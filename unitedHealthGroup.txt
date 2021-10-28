@@ -1,15 +1,15 @@
 done -> 1) Find the largest palindrome in a given string.
 done -> 2) Implement queue using two stacks.
 done -> 3) Find the middle element of the linked lists in a single pass (you can only traverse the list once).
-done -> 4)	N numbers ranging From 1 to N are given, there is exactly one number missing and exactly one is repeated find the repeated and missing number.
+done -> 4) N numbers ranging From 1 to N are given, there is exactly one number missing and exactly one is repeated find the repeated and missing number.
 done -> 5) You have an array of integers. Find that index for which sum of all the elements before it will be equal to sum of all elements after it.
 done -> 6) Find minimum value in a binary tree.
 done -> 7) Convert a binary tree to its mirror.
 done -> 8) Permutations of a string
 done -> 9) Length of the longest common subsequence for two given strings
 done -> 10) Sorting an array of pairs
-11)	sort array of squares	5min
-12)	Sort Array By Parity
+11) Sort array of squares
+12) Sort Array By Parity
 sort an char array according to given array of indices.
 Removal of every ‘kth’ person from a circle. Find the last remaining person
 Find if a string is interleaved of two other strings
